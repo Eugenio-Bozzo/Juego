@@ -1,0 +1,71 @@
+body {
+    background-image: url("Espacio.jpg");
+    background-size: auto;
+    display: block;
+  }
+  
+  img#spaceShip {
+    position: absolute;
+    left: 0;
+    top: 70%;
+    height: 10%;
+    width: 10%;
+  }
+  
+  img#invader{
+    position: absolute;
+    left: 20%;
+    top: 10%;
+    height: 10%;
+    width: 10%;
+  }
+
+  img#invader2{
+    position: absolute;
+    left: 30%;
+    top: 15%;
+    height: 10%;
+    width: 10%;
+  }
+
+  img#invader3{
+    position: absolute;
+    left: 60%;
+    top: 30%;
+    height: 10%;
+    width: 10%;
+  }
+
+  img#invader4{
+    position: absolute;
+    left: 75%;
+    top: 40%;
+    height: 10%;
+    width: 10%;
+  }
+
+  img#invader5{
+    position: absolute;
+    left: 45%;
+    top: 30%;
+    height: 10%;
+    width: 10%;
+  }
+
+  img#invader6{
+    position: absolute;
+    left: 5%;
+    top: 25%;
+    height: 10%;
+    width: 10%;
+  }
+  
+  div#laser{
+    position: absolute;
+    display: none;
+    left: 0;
+    top: 0;
+    width: 5px;
+    height: 30px;
+    background-color: red;
+  }
